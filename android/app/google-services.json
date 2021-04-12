@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "918244721170",
+    "firebase_url": "https://farmtohome-57129.firebaseio.com",
+    "project_id": "farmtohome-57129",
+    "storage_bucket": "farmtohome-57129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918244721170:android:863c3bce055721d204cecb",
+        "android_client_info": {
+          "package_name": "com.f2h.consumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918244721170-ec6i863hde1hpr5bg9jn50iq61rmccvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYnG0EsM-wOzo3IsWUDhM1tqqXS5df-Ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918244721170-ec6i863hde1hpr5bg9jn50iq61rmccvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

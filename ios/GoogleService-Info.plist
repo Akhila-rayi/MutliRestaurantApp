@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>918244721170-co15v0segkld7i6i8t6avgk5k4bidjl0.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.918244721170-co15v0segkld7i6i8t6avgk5k4bidjl0</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCznmUoXl5lUOEDSK_li_qRMUFpvOmBCvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>918244721170</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.f2h.consumer</string>
+	<key>PROJECT_ID</key>
+	<string>farmtohome-57129</string>
+	<key>STORAGE_BUCKET</key>
+	<string>farmtohome-57129.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:918244721170:ios:32ef3fa8e0b3d81404cecb</string>
+	<key>DATABASE_URL</key>
+	<string>https://farmtohome-57129.firebaseio.com</string>
+</dict>
+</plist>
